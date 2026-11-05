@@ -1,0 +1,9 @@
+# IDE / sistem
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# secrete
+.env
+.env.*
